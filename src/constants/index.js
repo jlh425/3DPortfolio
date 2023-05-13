@@ -173,18 +173,18 @@ import {
     {
       testimonial:
         " ",
-      name: "Sam Hunter",
-      designation: "Client",
-      company: "Civil Engineer",
-      image: "./src\assets\civilEngineerIcon.png",
+      name: "Sam",
+      designation: "Civil Engineer",
+      company: "",
+      image: "src\\assets\\civilEngineerIcon.png",
     },
     {
       testimonial:
         "",
-      name: "Chris Brown",
+      name: "Mark",
       designation: "Client",
       company: "",
-      image: "./src\assets\consumerIcon.svg",
+      image: "src\\assets\\consumerIcon.svg",
     },
     
   ];
