@@ -1,0 +1,6 @@
+npm create vite@latest ./ -- --template react
+
+
+npm add three @types/three
+
+npm run dev

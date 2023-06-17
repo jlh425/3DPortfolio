@@ -141,8 +141,7 @@ import {
   
   const testimonials = [
     {
-      testimonial:
-        " ",
+      testimonial: " ",
       name: "Sam",
       designation: "Civil Engineer",
       company: "",
@@ -150,13 +149,12 @@ import {
     },
     {
       testimonial:
-        "",
+        "For those who like it short, 5 out of 5 stars for all categories (quality, customer service, value, and packaging/safe delivery), highly recommend! For those who like more details, I had it delivered to my house in a box that was well packed and sealed. Everything was plug and play, with all the hardware and software I ordered. Never had any issues with overheating or any other quality issue. I did contact him for customer service once due to an unusual issue, which was my fault for picking up a virus, probably a new Trojan from an email or website. He helped me identify the problem and offered additional help to solve the problem. Thanks to Jon for making it possible to have my own custom PC on a small budget!",
       name: "Mark",
       designation: "Client",
       company: "",
       image: "src\\assets\\consumerIcon.svg",
     },
-    
   ];
   
   const projects = [
