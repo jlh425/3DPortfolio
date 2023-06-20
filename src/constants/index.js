@@ -21,6 +21,8 @@ import {
   threejs,
   TechHunterLLC,
   TechHunterLLC2,
+  web3,
+  alanai,
 } from "../assets";
   
   export const navLinks = [
@@ -178,6 +180,7 @@ import {
       ],
       image: carrent,
       source_code_link: "https://github.com/",
+      webpage_link: "https://aisummarizertechhunterllc.netlify.app/",
     },
     {
       name: "Music-ify",
@@ -198,7 +201,8 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/jlh425/Music-ify",
+      webpage_link: "",
     },
     {
       name: "ECommerce Store",
@@ -219,7 +223,51 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/jlh425/ecommerceweb",
+      webpage_link: "",
+    },
+    {
+      name: "Web 3.0",
+      description: "A web 3.0 application that interacts with crypto.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "React",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: web3,
+      source_code_link: "https://github.com/jlh425/web3.0blockchainapp",
+      webpage_link: "",
+    },
+    {
+      name: "News reading App",
+      description:
+        "Using Alan AI, you can read or listen to Alan who will guide you through the news.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "React",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: alanai,
+      source_code_link: "https://github.com/jlh425/web3.https://github.com/jlh425/alanai",
+      webpage_link: "",
     },
   ];
   

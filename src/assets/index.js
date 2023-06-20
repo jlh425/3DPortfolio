@@ -20,8 +20,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
-
+import web3 from "./web3.jpg";
+import alanai from "./alan-logo.svg"
 import TechHunterLLC from "./company/TechHunterLLC.svg";
 import TechHunterLLC2 from "./company/TechHunterLLC2.svg";
 
@@ -56,4 +56,6 @@ export {
   jobit,
   tripguide,
   TechHunterLLC,
+  web3,
+  alanai,
 };
