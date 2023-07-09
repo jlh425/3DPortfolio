@@ -245,7 +245,7 @@ import {
       ],
       image: web3,
       source_code_link: "https://github.com/jlh425/web3.0blockchainapp",
-      webpage_link: "",
+      webpage_link: "https://testappforweb3.netlify.app/",
     },
     {
       name: "News reading App",
@@ -266,7 +266,8 @@ import {
         },
       ],
       image: alanai,
-      source_code_link: "https://github.com/jlh425/web3.https://github.com/jlh425/alanai",
+      source_code_link:
+        "https://github.com/jlh425/web3.https://github.com/jlh425/alanai",
       webpage_link: "",
     },
   ];
