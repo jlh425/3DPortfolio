@@ -24,7 +24,7 @@ import web3 from "./web3.jpg";
 import alanai from "./alan-logo.svg"
 import TechHunterLLC from "./company/TechHunterLLC.svg";
 import TechHunterLLC2 from "./company/TechHunterLLC2.svg";
-
+import flexibble from "./flexibble.jpg"
 import carrent from "./GPT.webp";
 import jobit from "./Music-ify.jpg";
 import tripguide from "./caduceus.jpg";
@@ -51,11 +51,12 @@ export {
   tailwind,
   typescript,
   threejs,
-  TechHunterLLC2,  
+  TechHunterLLC2,
   carrent,
   jobit,
   tripguide,
   TechHunterLLC,
   web3,
   alanai,
+  flexibble
 };

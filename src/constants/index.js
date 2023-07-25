@@ -23,6 +23,7 @@ import {
   TechHunterLLC2,
   web3,
   alanai,
+  flexibble
 } from "../assets";
   
   export const navLinks = [
@@ -231,7 +232,7 @@ import {
       description: "A web 3.0 application that interacts with crypto.",
       tags: [
         {
-          name: "nextjs",
+          name: "solidity",
           color: "blue-text-gradient",
         },
         {
@@ -253,6 +254,24 @@ import {
         "Using Alan AI, you can read or listen to Alan who will guide you through the news.",
       tags: [
         {
+          name: "React",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: alanai,
+      source_code_link:
+        "https://github.com/jlh425/web3.https://github.com/jlh425/alanai",
+      webpage_link: "",
+    },
+    {
+      name: "Flexible",
+      description: "A website to showcase your coding projects.",
+      tags: [
+        {
           name: "nextjs",
           color: "blue-text-gradient",
         },
@@ -265,9 +284,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: alanai,
-      source_code_link:
-        "https://github.com/jlh425/web3.https://github.com/jlh425/alanai",
+      image: flexibble,
+      source_code_link: "https://github.com/jlh425/nextjs13flexible",
       webpage_link: "",
     },
   ];
